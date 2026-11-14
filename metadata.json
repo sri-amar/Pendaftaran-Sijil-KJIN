@@ -1,0 +1,6 @@
+{
+  "name": "Karnival Jejak Imam Nawawi 2026",
+  "description": "Sistem pendaftaran peserta dan penjanaan sijil automatik ke emel untuk Karnival Jejak Imam Nawawi Peringkat Kebangsaan 2026 bersama integrasi Google Sheets, Slides, Drive dan Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
